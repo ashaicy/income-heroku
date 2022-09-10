@@ -1,1 +1,2 @@
-# income-heroku
+# heroku-ml-deployment
+Heroku ML Deployment
